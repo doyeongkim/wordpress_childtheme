@@ -10,3 +10,9 @@ Template: twentyfifteen
 .main-navigation ul li {
 	width: 100%;
 }
+
+.site-title, .site-title a {
+color: red !important;
+font-family: cursive !important;
+font-size: 23px !important;
+}
