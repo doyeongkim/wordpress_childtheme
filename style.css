@@ -5,3 +5,8 @@ Author: Kim Doyeong
 Version: 060217
 Template: twentyfifteen
 */
+@import url("../twentyfifteen/style.css");
+
+.main-navigation ul li {
+	width: 100%;
+}
