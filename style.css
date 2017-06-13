@@ -16,3 +16,8 @@ color: red !important;
 font-family: cursive !important;
 font-size: 23px !important;
 }
+
+body {
+	background-color: #000000;
+	
+}
