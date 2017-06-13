@@ -21,3 +21,34 @@ body {
 	background-color: #000000;
 	
 }
+body:before {
+    right: 0;
+    left: auto;
+	direction: ltr;
+}
+.sidebar {
+    float: right;
+    margin-right: auto;
+    margin-left: -100%;
+	direction: ltr;
+}
+.site-content {
+    float: right;
+    margin-right: 29.4118%;
+    margin-left: auto;
+	direction: ltr;
+}
+.site-footer {
+    float: right;
+    margin: 0 35.2941% 0 0;
+	direction: ltr;
+}
+
+.single-post #secondary {
+display: none !important;
+}
+
+.single-post #primary {
+
+width: 100% !important;
+}
