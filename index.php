@@ -27,7 +27,11 @@ get_header(); ?>
 				</header>
 			<?php endif; ?>
 
-<div class="entry-content"> </div>
+<div class="entry-content"> 
+<?php 
+    echo do_shortcode("[metaslider id=9]"); 
+?>
+</div>
 
 			<?php
 			// Start the loop.
